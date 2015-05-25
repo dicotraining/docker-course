@@ -1,0 +1,12 @@
+[submodule "alpine"]
+	path = alpine
+	url = https://github.com/dpalomar/docker-alpine.git
+[submodule "docker-apache"]
+	path = docker-apache
+	url = https://github.com/dpalomar/docker-apache.git
+[submodule "docker-volumes"]
+	path = docker-volumes
+	url = https://github.com/dpalomar/docker-volumes.git
+[submodule "docker-ubuntu"]
+	path = docker-ubuntu
+	url = https://github.com/dpalomar/docker-ubuntu.git
