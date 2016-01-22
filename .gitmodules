@@ -10,3 +10,6 @@
 [submodule "docker-ubuntu"]
 	path = docker-ubuntu
 	url = https://github.com/dpalomar/docker-ubuntu.git
+[submodule "docker-compose-sample"]
+	path = docker-compose-sample
+	url = https://github.com/dpalomar/docker-compose-sample.git
